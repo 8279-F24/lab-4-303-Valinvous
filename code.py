@@ -46,8 +46,3 @@ Type 3 to show green
     except ValueError:
         print("Invalid Input. Please type an integer")
         continue
-
-    
-
-    
-    
